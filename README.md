@@ -1,1 +1,2 @@
-# WesternTown_Game
+# Another_Western_Town
+ The main project repository
